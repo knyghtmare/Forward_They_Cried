@@ -3,6 +3,7 @@ Forward They Cried
 
 Forward They Cried is a UMC add-on for the turn-based strategy game, the [Battle for Wesnoth] [1].
 This is a single scenario campaign focusing on the Loyalists faction.
+The original author is Glowing Fish, but I have taken the task of maintaining it ever since it was this add-on was abandoned.
 
 'You are the leader of an advanced detachment that has been tasked with capturing a bridgehead while the main army prepares to attack. It should be a simple enough assignment. (Novice Level)'
 
