@@ -1,0 +1,7 @@
+v1.0.3
+--> initial import to 1.15.x servers
+
+v1.0.4
+--> removed deprecated/unsupported code
+--> fixed missing campaign portrait
+--> refactored some code
