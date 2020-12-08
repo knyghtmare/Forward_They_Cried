@@ -7,3 +7,6 @@ v1.0.4
 --> refactored some code
 --> utilised the new 1.15 naga units
 --> Culwych is now a loyal unit
+
+v1.0.5
+--> added POT file (generated with wmlxgettext)
