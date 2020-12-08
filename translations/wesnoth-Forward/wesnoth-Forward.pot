@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2020-12-08 22:18 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [scenario]: id=Forward
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\scenarios\Forward.cfg:5
+#: Forward_They_Cried\_main.cfg:10
+msgid "Forward They Cried"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Hongfen
+#. [side]: type=Grand Marshal, id=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:45
+#: Forward_They_Cried\scenarios\Forward.cfg:65
+msgid "team_name^Wesnothians"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:54
+msgid "Hongfen"
+msgstr ""
+
+#. [side]: type=Grand Marshal, id=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:74
+msgid "Sessius"
+msgstr ""
+
+#. [side]: type=Orcish Warlord
+#: Forward_They_Cried\scenarios\Forward.cfg:84
+msgid "enemies^Orcs"
+msgstr ""
+
+#. [objective]: condition=win
+#: Forward_They_Cried\scenarios\Forward.cfg:112
+msgid "Find and defeat the enemy leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Forward_They_Cried\scenarios\Forward.cfg:116
+msgid "Death of Hongfen"
+msgstr ""
+
+#. [unit]: id=Culwych
+#: Forward_They_Cried\scenarios\Forward.cfg:139
+msgid "Culwych"
+msgstr ""
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:145
+msgid "These orcish scum have been prowling on the North Side of the River for too long. Our main invasion force will move over at dawn to scour them away. It is up to you, Lieutenant, to secure the beachhead over night while I prepare my forces. It should be an easy enough job for our Wesnothian forces, against these scattered goblin curs."
+msgstr ""
+
+#. [message]: speaker=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:149
+msgid "I have no doubts that this mission will go easily enough for me and my men."
+msgstr ""
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:160
+msgid "What's this? He failed against a few goblin rabble? The Weldyn Military Academy seems to have lowered their standards. Now, my troops will have to do this grunt work."
+msgstr ""
+
+#. [message]: speaker=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:175
+msgid "We are taking casualties, Sir."
+msgstr ""
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:179
+msgid "Understood. Continue with the assault."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Forward_They_Cried\scenarios\Forward.cfg:193
+msgid "I am only a simple healer, and I am ill-equipped to deal with these brutes. Please protect me!"
+msgstr ""
+
+#. [message]: speaker=Culwych
+#: Forward_They_Cried\scenarios\Forward.cfg:204
+msgid "I never should have joined this forsaken army."
+msgstr ""
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:208
+msgid "Foolish boy, that healer was worth more than you."
+msgstr ""
+
+#. [message]: speaker=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:212
+#: Forward_They_Cried\scenarios\Forward.cfg:224
+msgid "Yes, Sir."
+msgstr ""
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:220
+msgid "It is midnight, you should be making better progress than this."
+msgstr ""
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:232
+msgid "You have failed in your mission. Now, my troops have to complete this piddling task for you. You, on the other hand, will be relieved of duty and brought before a court martial."
+msgstr ""
+
+#. [message]: speaker=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:244
+msgid "The orcs have been routed, Sir!"
+msgstr ""
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:248
+msgid "Well done, soldier. Rally your men and return to Weldyn for debriefing. My forces shall now mobilise to secure the northern side of the river."
+msgstr ""
+
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\_main.cfg:16
+msgid "You are the leader of an advanced detachment that has been tasked with capturing a bridgehead while the main army prepares to attack. It should be a simple enough assignment. (Intermediate Level, 1 scenario.)"
+msgstr ""
+
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\_main.cfg:18
+msgid "Commander"
+msgstr ""
+
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\_main.cfg:18
+msgid "Challenging"
+msgstr ""
+
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\_main.cfg:21
+msgid "The End"
+msgstr ""
+
+#. [about]
+#: Forward_They_Cried\_main.cfg:24
+msgid "Original Scenario Design"
+msgstr ""
+
+#. [about]
+#: Forward_They_Cried\_main.cfg:30
+msgid "Latest Scenario Revision"
+msgstr ""
+
