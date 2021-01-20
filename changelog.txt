@@ -11,3 +11,7 @@ v1.0.4
 v1.0.5
 --> added POT file (generated with wmlxgettext)
 --> fixed an incorrect event name
+
+v1.0.6
+--> Taking advantage of the new campaign menu overhaul
+-->
