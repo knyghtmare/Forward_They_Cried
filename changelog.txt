@@ -14,3 +14,6 @@ v1.0.5
 
 v1.0.6
 --> Taking advantage of the new campaign menu overhaul
+
+v1.0.6.1:
+--> Added Polish translation by MrOrochimaru#6132
