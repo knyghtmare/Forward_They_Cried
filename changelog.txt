@@ -17,3 +17,6 @@ v1.0.6
 
 v1.0.6.1:
 --> Added Polish translation by MrOrochimaru#6132
+
+v1.0.6.2:
+--> Added Japanese translation by Chee/K.K.
