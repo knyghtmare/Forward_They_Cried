@@ -20,3 +20,6 @@ v1.0.6.1:
 
 v1.0.6.2:
 --> Added Japanese translation by Chee/K.K.
+
+v1.0.6.3:
+--> Added German/Deustch translation by otzenpunk
