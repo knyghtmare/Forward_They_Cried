@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2020-12-08 22:18 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [scenario]: id=Forward
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\scenarios\Forward.cfg:5
+#: Forward_They_Cried\_main.cfg:10
+msgid "Forward They Cried"
+msgstr "إلى الأمام!"
+
+#. [side]: type=Lieutenant, id=Hongfen
+#. [side]: type=Grand Marshal, id=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:45
+#: Forward_They_Cried\scenarios\Forward.cfg:65
+msgid "team_name^Wesnothians"
+msgstr "الوسنوثيين"
+
+#. [side]: type=Lieutenant, id=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:54
+msgid "Hongfen"
+msgstr "القائد هونغفان"
+
+#. [side]: type=Grand Marshal, id=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:74
+msgid "Sessius"
+msgstr "القائد سيسيوس"
+
+#. [side]: type=Orcish Warlord
+#: Forward_They_Cried\scenarios\Forward.cfg:84
+msgid "enemies^Orcs"
+msgstr "الأورك"
+
+#. [objective]: condition=win
+#: Forward_They_Cried\scenarios\Forward.cfg:112
+msgid "Find and defeat the enemy leader"
+msgstr "جد واهزم قائد الأعداء"
+
+#. [objective]: condition=lose
+#: Forward_They_Cried\scenarios\Forward.cfg:116
+msgid "Death of Hongfen"
+msgstr "موت هونغفان"
+
+#. [unit]: id=Culwych
+#: Forward_They_Cried\scenarios\Forward.cfg:139
+msgid "Culwych"
+msgstr "كولويش"
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:145
+msgid "These orcish scum have been prowling on the North Side of the River for too long. Our main invasion force will move over at dawn to scour them away. It is up to you, Lieutenant, to secure the beachhead over night while I prepare my forces. It should be an easy enough job for our Wesnothian forces, against these scattered goblin curs."
+msgstr "كانت هذه الحثالة الأوركية تتجول على الجانب الشمالي من النهر لفترة طويلة جدًا.  ستتحرك قوة الغزو الرئيسية عند الفجر لتطردهم.  الأمر متروك لك، أيها الملازم، لتأمين رأس الجسر طوال الليل بينما أقوم بإعداد قواتي.  يجب أن تكون مهمة سهلة بما فيه الكفاية لقواتنا الويسنوثية، ضد هذا الغوبلن المتناثر"
+
+#. [message]: speaker=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:149
+msgid "I have no doubts that this mission will go easily enough for me and my men."
+msgstr "لا شك عندي أن هذه المهمة ستكون سهلة جدا لي والرجال."
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:160
+msgid "What's this? He failed against a few goblin rabble? The Weldyn Military Academy seems to have lowered their standards. Now, my troops will have to do this grunt work."
+msgstr "ماهذا؟ لقد هزم أمام فئة ضئيلة من الغوالي! يبدو أن أكاديمية ويسنوث العسكرية قد أصبحت مهزلة. الان، أصبح علي أن اقوم بهذه المهمة السخيفة بنفسي."
+
+#. [message]: speaker=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:175
+msgid "We are taking casualties, Sir."
+msgstr "نحن نخسر رجالا كثيرين، سيدي!"
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:179
+msgid "Understood. Continue with the assault."
+msgstr "مفهوم. واصلوا الهجوم حاليا."
+
+#. [message]: speaker=second_unit
+#: Forward_They_Cried\scenarios\Forward.cfg:193
+msgid "I am only a simple healer, and I am ill-equipped to deal with these brutes. Please protect me!"
+msgstr "أنا مجرد معالج بسيط ولست مؤهلا لخوض حروب جدية. ارجو ان تقوم بتوفير الحماية لي بينما أقوم بعملي."
+
+#. [message]: speaker=Culwych
+#: Forward_They_Cried\scenarios\Forward.cfg:204
+msgid "I never should have joined this forsaken army."
+msgstr "ما كان علي القبول بالانضمام لهذا الجيش التعيس."
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:208
+msgid "Foolish boy, that healer was worth more than you."
+msgstr "أيها الغبي المبتدئ، ذلك المعالج له قيمة اكبر منك انت بحد ذاتك."
+
+#. [message]: speaker=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:212
+#: Forward_They_Cried\scenarios\Forward.cfg:224
+msgid "Yes, Sir."
+msgstr "حاضر، سيدي."
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:220
+msgid "It is midnight, you should be making better progress than this."
+msgstr "انه منتصف الليل. كان ينبغي أن يكون تقدمك اسرع من هذا بكثير."
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:232
+msgid "You have failed in your mission. Now, my troops have to complete this piddling task for you. You, on the other hand, will be relieved of duty and brought before a court martial."
+msgstr "لقد فشلت في مهمتك. الان، على قواتي أن تنجز واجباتك انت. أما انت فستمثل أمام محكمة عسكرية جزاء تخاذلك."
+
+#. [message]: speaker=Hongfen
+#: Forward_They_Cried\scenarios\Forward.cfg:244
+msgid "The orcs have been routed, Sir!"
+msgstr "لقد هزمنا الاورك يا سيدي."
+
+#. [message]: speaker=Sessius
+#: Forward_They_Cried\scenarios\Forward.cfg:248
+msgid "Well done, soldier. Rally your men and return to Weldyn for debriefing. My forces shall now mobilise to secure the northern side of the river."
+msgstr "عمل ممتاز. اجمع الجنود وعد للعاصمة ويلدن كي تقدم تقريرك. قواتي الان ستتحرك بأمان نحو الشمال."
+
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\_main.cfg:16
+msgid "You are the leader of an advanced detachment that has been tasked with capturing a bridgehead while the main army prepares to attack. It should be a simple enough assignment. (Intermediate Level, 1 scenario.)"
+msgstr "انت قائد وحدة عسكرية خلف خط الحرب ومهمتك حماية جسر ارضي ليمر الجيش بأكثر أمن وهي مهمة سهلة للغاية. (مستور متوسط، سيناريو واحد)"
+
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\_main.cfg:18
+msgid "Commander"
+msgstr "قائد"
+
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\_main.cfg:18
+msgid "Challenging"
+msgstr "تحدي"
+
+#. [campaign]: id=FORWARD_THEY_CRIED
+#: Forward_They_Cried\_main.cfg:21
+msgid "The End"
+msgstr "النهاية"
+
+#. [about]
+#: Forward_They_Cried\_main.cfg:24
+msgid "Original Scenario Design"
+msgstr "المصمم الاصلي"
+
+#. [about]
+#: Forward_They_Cried\_main.cfg:30
+msgid "Latest Scenario Revision"
+msgstr "اخر مراجع للحملة"
+

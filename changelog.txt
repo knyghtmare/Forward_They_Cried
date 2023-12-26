@@ -23,3 +23,6 @@ v1.0.6.2:
 
 v1.0.6.3:
 --> Added German/Deustch translation by otzenpunk
+
+v1.0.6.4:
+--> Added Arabic translation by hermes052
